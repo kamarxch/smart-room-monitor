@@ -1,0 +1,17 @@
+# secrets and local config
+firmware/include/secrets.h
+.env
+
+# build and editor files
+firmware/.pio/
+firmware/.vscode/
+
+# python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# data and logs
+*.db
+*.log
+.vscode/
