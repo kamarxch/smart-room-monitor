@@ -1,0 +1,8 @@
+paho-mqtt
+pandas
+scikit-learn
+matplotlib
+streamlit
+python-dotenv
+openai
+anthropic
